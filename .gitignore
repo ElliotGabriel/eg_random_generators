@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Random stuff I put in my project for reasons
+to-do.txt
