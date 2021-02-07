@@ -1,0 +1,16 @@
+{
+  "beginning" : [
+
+  ],
+  "middle" : [
+
+  ],
+  "end" : [
+    "town", "dale", "ton", "tonia", "minster", "pool",
+    "field", "grove", "shire", "ham", "stone", "ford",
+    "heath", "bluff", "hill", "ley", "moor", "gate", 
+    "falls", "wich", "wood","don", "thorp", "bury",
+    "brook"
+  ]
+
+}
